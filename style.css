@@ -1,0 +1,30 @@
+#heading{
+    color:blueviolet;
+    font-size:xx-large;
+    width:100%;
+    border-radius: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin:0;
+}
+body{
+    background-size:cover;
+}
+#start,#status,#num{
+    font-size: 20px;
+}
+#copy_right_footer{
+    font-size: large;
+    line-height: 2;
+    margin-bottom: 0;
+    position: fixed;
+    bottom:0;
+    color:turquoise;
+    width: 100%;
+    text-align: center;
+    background-color:orangered;
+}
+canvas{
+    border:5px solid blue;
+    box-shadow:5px 5px 5px yellow;
+}
